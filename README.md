@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jaiden.
 
-<!--
-**jbenz/jbenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure engineer | Blockchain monitoring | Systems architect | MEV analyst
+```
+ ┌────────┐
+ │ @jbenz │
+ └────────┘
+```
+---
 
-Here are some ideas to get you started:
+# 💎 About Me
+- 🔧 Managing complex deployments across **Proxmox, Docker, OpenWrt**
+- 🔗 Building **MEV monitoring systems** and blockchain infrastructure
+- 📊 Creating **real-time dashboards** with Grafana for data visualization
+- 🗄️ Database optimization & **MariaDB/MySQL** administration
+- 🔐 Network security, infrastructure automation, and deployment optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Tech Stack
+### **Infrastructure** 
+- Proxmox, Docker, OpenWrt, Apache2 + Nginx Proxy Manager, Linux/Debian, macOS
+### **Databases** 
+- MariaDB, MySQL, SQL optimization
+### **Monitoring** 
+- Grafana, data streaming, APIs
+### **Programming** 
+- Python, Bash, JavaScript/Node.js
+### **Blockchain** 
+- Ethereum, Bitcoin, DeFi protocols, MEV analysis
+
+---
+
+# 🚀 Current Focus
+- 🔭 MEV monitoring and DeFi protocol optimization
+- 📈 Building advanced analytics dashboards for real-time monitoring
+- 🛠️ Infrastructure automation and deployment pipelines
+- 🌍 Multi-server orchestration and network infrastructure
+
+# 🎡 **Open to collaborations** on 
+- infrastructure + security
+- blockchain monitoring and analysis
+- data visualization projects
+- graphic design + art direction
