@@ -19,7 +19,7 @@ Infrastructure engineer | Blockchain monitoring | Systems architect | MEV analys
 
 # 💻 Tech Stack
 ### **Infrastructure** 
-- Proxmox, Docker, OpenWrt, Apache2 + Nginx Proxy Manager, Linux/Debian, macOS
+- Linux, Debian, macOS, VMware ESXi/vSphere, Proxmox, Docker, Portainer, OpenWrt, Apache2, Nginx 
 ### **Databases** 
 - MariaDB, MySQL, SQL optimization
 ### **Monitoring** 
@@ -36,6 +36,8 @@ Infrastructure engineer | Blockchain monitoring | Systems architect | MEV analys
 - 📈 Building advanced analytics dashboards for real-time monitoring
 - 🛠️ Infrastructure automation and deployment pipelines
 - 🌍 Multi-server orchestration and network infrastructure
+
+---
 
 # 🎡 **Open to collaborations** on 
 - infrastructure + security
