@@ -8,6 +8,10 @@ Infrastructure engineer | Blockchain monitoring | Systems architect | MEV analys
 ```
 ---
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jbenz&theme=apprentice)
+
+---
+
 # 💎 About Me
 - 🔧 Managing complex deployments across **Proxmox, Docker, OpenWrt**
 - 🔗 Building **MEV monitoring systems** and blockchain infrastructure
